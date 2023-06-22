@@ -1,0 +1,33 @@
+# Unity generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# VS/MD solution and project files
+/*.sln
+/*.csproj
+/*.suo
+/*.pidb
+/*.user
+/*.userprefs
+/*.unityproj
+/*.booproj
+
+# Builds
+/*.apk
+/*.unitypackage
+
+# Crashlytics generated file
+/crashlytics-build.properties
+
+# Android auto generated files
+/Assets/Plugins/Android/libs/unity-android-resources
+/Assets/Plugins/Android/libs/unitygvr*
+/Assets/Plugins/Android/libs/unityvr*
+
+# macOS
+.DS_Store
